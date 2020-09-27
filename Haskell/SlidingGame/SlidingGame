@@ -1,0 +1,7 @@
+--Sliding Program Solver
+
+data Actions = U | D | L | R
+data Squares = Int | Empty
+type SlSquare = [Int]
+
+ 
